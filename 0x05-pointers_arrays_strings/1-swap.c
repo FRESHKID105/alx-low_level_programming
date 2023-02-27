@@ -3,8 +3,8 @@
 /**
  * swap_int - swaps the values of two integers.
  *
- * pointer to an int
- * pointer to other int
+ * @a: pointer to an int
+ * @b: pointer to other int
  * Return: Nothing
  */
 
